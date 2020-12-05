@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fdroid>
+	<repo icon="default-repo-icon.png" name="Buchclub (Main)" pubkey="30820503308202eba00302010202040159605d300d06092a864886f70d01010b050030323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f7267301e170d3230303832353230343531345a170d3438303131313230343531345a30323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f726730820222300d06092a864886f70d01010105000382020f003082020a0282020100889ee33bc99be88183e1bbe8e234a7318984c3fd260924c4effa9b4424d530eabc1a30b0929ede0183c46e6defde192cd0052b90825165e5914645da4a451f41825af95822f647c80351dd9660f4896f1597a2f18bc94783784168f9f10922067038fa0d40c4efae611c6dfee612e7ce9a3649852d92f9ca9712f0eb1c5a9647c5f933b45f5416108fadf17e9baf34e1923297ec274dabda00e0c8d500ba0d2e04c036e63baaca35ec39e5aa952461aa95c7856e1c1acbfbdfd62de6a35e5b2ac8e5dde4cf2063b288ce48fee882fa374a86d0baa4cfa8608071c529aef4256572282420b6033a51c273b4349e86ebb4a761342cba2c620f4b2eb57aface4d1437a0211ab23835cf7b5c4fd7bfb3017f1ea57aa9836c60109c566534c634331db12b89743a643e12805c2ffb364c343cc1086b822afcde2e9c91b5f8592b795a92ed3990c76683b0d92eb89e9ef16d2578780ec9fefa5ca6682a08c74c76f4f94a9385c9c8a4879053ba803ec96717558b6f679dab8b96e3e8994bdc46a736328ab0e1a8b110aceb80ba669d1663f25547848b11e625fd0fe594da45f5b3b01bde5aade37f2028bf206a8152c4206867e9a127e639ee39c405d20e70b40f6b1929c988daa7861528e8acd0b07a38dd5b832cee60f89e1175c7d1651c02a7f5c5f1f104347b5f7761ad7ffed9c26319b36093fa6a3cf443d1e24d46ac1d9692430203010001a321301f301d0603551d0e04160414ca85c2f78633cf34a39e47a4a4caa4be9467b5f3300d06092a864886f70d01010b0500038202010070372e14f011f455371430ab8d926f8ad5fa8a18db258a9d435d08d921e6bf324a4e157dcada9cab92f2f7ecb4359a7e486dbe8b5924afe9c9c8c2d49bce1a62ab44c408f42181792cb03c12cad4e19f1c71f0e80ad687a79bc1a75b43d8a1f5efdd567acb5bbf4b95bd59c6568146fa8f53480ef111cf5ae8c87a3af98afebdbaf006a01bcf298e4858ea6116279d35883f5ab526810c5843c5b58d8f4dcc08d016ed421a87dbdd68e7dffc517bcc16195c63c2282255987c86cbf2492d5cccb1e562042db1e1f7066e45f34dd797a85078986d4041c1d175769187d073e7afa0ac49432ac12b57ee6f7dc8b826e5c494e9e5b9abe7eb78a09c7b5ac07c62438742b5778130afa8a947beb9514a4dc920994e079aa1e8d49e5d65562828ff6050f49c06ce4c9c8709856799c61b12b607122c27a24a82ce0babd841ccddfcb3af6015dcc403a4c16044ba24573aea92cf46a61710affdff5d431a092a546f95ba685c89a40c93d11044e2565e17965e54c77e92649ce124a9282f422c4769b007f1132a9b7e9cb2f5bb96354d5fc6ae69283d5b5c553ad12be81cbeaf5d8c62b7e77a2afc4c7a839917fabab2dbfa041e6c67b074fa780720b21e9f79e9350534d83e1cd856c7e09e56722f01aac045640a6bcea6feb09aa2f3290b181c3a4900ba95a24214c8c9a21dc6bc9e4e7fe8d302d713ffe18b22fd0131177c410746" timestamp="1600021250" url="https://raw.githubusercontent.com/dbiesecke/f-droid-repo/master/fdroid/repo" version="18">
+		<description>BuchClub</description>
+		<mirror>https://raw.githubusercontent.com/dbiesecke/f-droid-repo/master/fdroid/repo/repo</mirror>
+	</repo>
+	<application id="com.nathnetwork.iptv2k19">
+		<id>com.nathnetwork.iptv2k19</id>
+		<added>2020-08-25</added>
+		<lastupdated>2020-08-25</lastupdated>
+		<name>IPTV 2K19</name>
+		<summary></summary>
+		<icon>com.nathnetwork.iptv2k19.322.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>322</marketvercode>
+		<package>
+			<version>3.1.2</version>
+			<versioncode>322</versioncode>
+			<apkname>tv2019.apk</apkname>
+			<hash type="sha256">34e8004306a9eecdf18f90e32ef4bc9010ad0ff8ad78ab58c355f6f8d2b4922a</hash>
+			<size>29371532</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>28</targetSdkVersion>
+			<added>2020-08-25</added>
+			<sig>0c0b9b1c967ad64205e97ec2751749a2</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.assistant.READ_HOTWORD_STATE ,com.google.android.assistant.WRITE_HOTWORD_STATE</permissions>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+	</application>
+	<application id="com.nel.luctv">
+		<id>com.nel.luctv</id>
+		<added>2020-08-25</added>
+		<lastupdated>2020-08-25</lastupdated>
+		<name>Luc.TV</name>
+		<summary></summary>
+		<icon>com.nel.luctv.55.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>55</marketvercode>
+		<package>
+			<version>2.2.2</version>
+			<versioncode>55</versioncode>
+			<apkname>luctv2.1.apk</apkname>
+			<hash type="sha256">43fe67a0014623c11837307e43eeb1ab63063e8ad9f3d2abb42a2be5c026fc4b</hash>
+			<size>75872385</size>
+			<sdkver>17</sdkver>
+			<targetSdkVersion>28</targetSdkVersion>
+			<added>2020-08-25</added>
+			<sig>e967c9e5fd92879f6bac96358de84d90</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CLEAR_APP_CACHE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,READ_OWNER_DATA,RECEIVE_BOOT_COMPLETED,SYSTEM_ALERT_WINDOW,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_OWNER_DATA,com.android.vending.BILLING,com.google.android.c2dm.permission.RECEIVE,com.net.bdstreamztvtwo.permission.C2D_MESSAGE</permissions>
+			<nativecode>armeabi,armeabi-v7a</nativecode>
+		</package>
+	</application>
+	<application id="ca.pkay.rcloneexplorer">
+		<id>ca.pkay.rcloneexplorer</id>
+		<added>2020-08-25</added>
+		<lastupdated>2020-08-25</lastupdated>
+		<name>Rclone Explorer</name>
+		<summary></summary>
+		<icon>ca.pkay.rcloneexplorer.29.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>29</marketvercode>
+		<package>
+			<version>1.7.4-DEV</version>
+			<versioncode>29</versioncode>
+			<apkname>app-release.apk</apkname>
+			<hash type="sha256">5baca61a322396fe1c5ee22a602c8bf6c779783ba8f3e1da5cb995583d3e90ac</hash>
+			<size>44075920</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>28</targetSdkVersion>
+			<added>2020-08-25</added>
+			<sig>95930fb6eeac3469ac462d131301df09</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
+		</package>
+	</application>
+	<application id="io.github.x0b.rcx">
+		<id>io.github.x0b.rcx</id>
+		<added>2020-08-25</added>
+		<lastupdated>2020-08-25</lastupdated>
+		<name>RCX - Rclone for Android</name>
+		<summary></summary>
+		<icon>io.github.x0b.rcx.170.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>170</marketvercode>
+		<package>
+			<version>1.11.4</version>
+			<versioncode>170</versioncode>
+			<apkname>rcx-v1.11.4-universal-release_1.apk</apkname>
+			<hash type="sha256">50ce0c65c5baa80276b2a9fa9b5e7b51a8674bbf13bab0501bcd451abf05c410</hash>
+			<size>63684991</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2020-08-25</added>
+			<sig>4dbe42e6b8704a0fb5253c3b539c7602</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,MANAGE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+	</application>
+	<application id="com.rewindtv.rewindtviptvbox">
+		<id>com.rewindtv.rewindtviptvbox</id>
+		<added>2020-08-25</added>
+		<lastupdated>2020-08-25</lastupdated>
+		<name>Rewind TV</name>
+		<summary></summary>
+		<icon>com.rewindtv.rewindtviptvbox.60.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>60</marketvercode>
+		<package>
+			<version>2.1</version>
+			<versioncode>60</versioncode>
+			<apkname>Rewind_TV2.1.apk</apkname>
+			<hash type="sha256">f83c8b5ae40615533a40386bad72b93579cd6984481832b7d3416ec609885836</hash>
+			<size>66900529</size>
+			<sdkver>17</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2020-08-25</added>
+			<sig>1953a19622a1a40d96fef7a54d1d4ac8</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SYSTEM_ALERT_WINDOW,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,com.google.android.c2dm.permission.RECEIVE,com.rewindtv.rewindtviptvbox.permission.C2D_MESSAGE</permissions>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
+		</package>
+	</application>
+	<application id="com.iptv.streamforu">
+		<id>com.iptv.streamforu</id>
+		<added>2020-08-25</added>
+		<lastupdated>2020-08-25</lastupdated>
+		<name>Tvorb Extreme</name>
+		<summary></summary>
+		<icon>com.iptv.streamforu.9.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>9</marketvercode>
+		<package>
+			<version>1.5.1</version>
+			<versioncode>9</versioncode>
+			<apkname>Tvorb_Extreme.apk</apkname>
+			<hash type="sha256">1e6fd924542f6cb4323340fa023b7180f792c61c1da742bd0f19e68b00fa2688</hash>
+			<size>76698672</size>
+			<sdkver>17</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2020-08-25</added>
+			<sig>e967c9e5fd92879f6bac96358de84d90</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,mips,x86,x86_64</nativecode>
+		</package>
+	</application>
+	<application id="app.xeev.xeplayer">
+		<id>app.xeev.xeplayer</id>
+		<added>2020-08-25</added>
+		<lastupdated>2020-09-13</lastupdated>
+		<name>X3M Player</name>
+		<summary></summary>
+		<icon>app.xeev.xeplayer.146.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>146</marketvercode>
+		<package>
+			<version>2.1.6</version>
+			<versioncode>146</versioncode>
+			<apkname>x3m_SOY43Ux.apk</apkname>
+			<hash type="sha256">af8a2e6158f34b749d62c6bffaa2b710882ab96811d9cb7e81973b8631edf676</hash>
+			<size>57137701</size>
+			<sdkver>22</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2020-09-13</added>
+			<sig>488a816d025990f95e7268e797484bb1</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,DOWNLOAD_WITHOUT_NOTIFICATION,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,mips,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>2.1.4</version>
+			<versioncode>144</versioncode>
+			<apkname>x3m.apk</apkname>
+			<hash type="sha256">461e2335eb9fecfe8ee33fbfd702ef0359ddf07d04007471fd296c33227e658a</hash>
+			<size>57137701</size>
+			<sdkver>22</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2020-08-25</added>
+			<sig>488a816d025990f95e7268e797484bb1</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,DOWNLOAD_WITHOUT_NOTIFICATION,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,mips,x86,x86_64</nativecode>
+		</package>
+	</application>
+</fdroid>

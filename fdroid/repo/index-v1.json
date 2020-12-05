@@ -1,0 +1,581 @@
+{
+  "repo": {
+    "timestamp": 1600021250694,
+    "version": 18,
+    "name": "Buchclub (Main)",
+    "icon": "default-repo-icon.png",
+    "address": "https://raw.githubusercontent.com/dbiesecke/f-droid-repo/master/fdroid/repo",
+    "description": "BuchClub",
+    "mirrors": [
+      "https://raw.githubusercontent.com/dbiesecke/f-droid-repo/master/fdroid/repo/repo"
+    ]
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "suggestedVersionCode": "322",
+      "license": "Unknown",
+      "name": "IPTV 2K19",
+      "added": 1598381170670,
+      "icon": "com.nathnetwork.iptv2k19.322.png",
+      "packageName": "com.nathnetwork.iptv2k19",
+      "lastUpdated": 1598381952576
+    },
+    {
+      "suggestedVersionCode": "55",
+      "license": "Unknown",
+      "name": "Luc.TV",
+      "added": 1598381161511,
+      "icon": "com.nel.luctv.55.png",
+      "packageName": "com.nel.luctv",
+      "lastUpdated": 1598381941274
+    },
+    {
+      "suggestedVersionCode": "29",
+      "license": "Unknown",
+      "name": "Rclone Explorer",
+      "added": 1598384650436,
+      "icon": "ca.pkay.rcloneexplorer.29.png",
+      "packageName": "ca.pkay.rcloneexplorer",
+      "lastUpdated": 1598384658518
+    },
+    {
+      "suggestedVersionCode": "170",
+      "license": "Unknown",
+      "name": "RCX - Rclone for Android",
+      "added": 1598381179102,
+      "icon": "io.github.x0b.rcx.170.png",
+      "packageName": "io.github.x0b.rcx",
+      "lastUpdated": 1598381950114
+    },
+    {
+      "suggestedVersionCode": "60",
+      "license": "Unknown",
+      "name": "Rewind TV",
+      "added": 1598381164722,
+      "icon": "com.rewindtv.rewindtviptvbox.60.png",
+      "packageName": "com.rewindtv.rewindtviptvbox",
+      "lastUpdated": 1598381934642
+    },
+    {
+      "suggestedVersionCode": "9",
+      "license": "Unknown",
+      "name": "Tvorb Extreme",
+      "added": 1598381168183,
+      "icon": "com.iptv.streamforu.9.png",
+      "packageName": "com.iptv.streamforu",
+      "lastUpdated": 1598381938213
+    },
+    {
+      "suggestedVersionCode": "146",
+      "license": "Unknown",
+      "name": "X3M Player",
+      "added": 1598381158452,
+      "icon": "app.xeev.xeplayer.146.png",
+      "packageName": "app.xeev.xeplayer",
+      "lastUpdated": 1600016227562
+    }
+  ],
+  "packages": {
+    "com.rewindtv.rewindtviptvbox": [
+      {
+        "added": 1598381934642,
+        "apkName": "Rewind_TV2.1.apk",
+        "hash": "f83c8b5ae40615533a40386bad72b93579cd6984481832b7d3416ec609885836",
+        "hashType": "sha256",
+        "minSdkVersion": "17",
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi",
+          "armeabi-v7a",
+          "mips",
+          "mips64",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.rewindtv.rewindtviptvbox",
+        "sig": "1953a19622a1a40d96fef7a54d1d4ac8",
+        "size": 66900529,
+        "targetSdkVersion": "27",
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.rewindtv.rewindtviptvbox.permission.C2D_MESSAGE",
+            null
+          ]
+        ],
+        "versionCode": 60,
+        "versionName": "2.1"
+      }
+    ],
+    "com.iptv.streamforu": [
+      {
+        "added": 1598381938213,
+        "apkName": "Tvorb_Extreme.apk",
+        "hash": "1e6fd924542f6cb4323340fa023b7180f792c61c1da742bd0f19e68b00fa2688",
+        "hashType": "sha256",
+        "minSdkVersion": "17",
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "mips",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.iptv.streamforu",
+        "sig": "e967c9e5fd92879f6bac96358de84d90",
+        "size": 76698672,
+        "targetSdkVersion": "27",
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 9,
+        "versionName": "1.5.1"
+      }
+    ],
+    "ca.pkay.rcloneexplorer": [
+      {
+        "added": 1598384658518,
+        "apkName": "app-release.apk",
+        "hash": "5baca61a322396fe1c5ee22a602c8bf6c779783ba8f3e1da5cb995583d3e90ac",
+        "hashType": "sha256",
+        "minSdkVersion": "21",
+        "packageName": "ca.pkay.rcloneexplorer",
+        "sig": "95930fb6eeac3469ac462d131301df09",
+        "size": 44075920,
+        "targetSdkVersion": "28",
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 29,
+        "versionName": "1.7.4-DEV"
+      }
+    ],
+    "com.nel.luctv": [
+      {
+        "added": 1598381941274,
+        "apkName": "luctv2.1.apk",
+        "hash": "43fe67a0014623c11837307e43eeb1ab63063e8ad9f3d2abb42a2be5c026fc4b",
+        "hashType": "sha256",
+        "minSdkVersion": "17",
+        "nativecode": [
+          "armeabi",
+          "armeabi-v7a"
+        ],
+        "packageName": "com.nel.luctv",
+        "sig": "e967c9e5fd92879f6bac96358de84d90",
+        "size": 75872385,
+        "targetSdkVersion": "28",
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "android.permission.READ_OWNER_DATA",
+            null
+          ],
+          [
+            "android.permission.WRITE_OWNER_DATA",
+            null
+          ],
+          [
+            "android.permission.CLEAR_APP_CACHE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.net.bdstreamztvtwo.permission.C2D_MESSAGE",
+            null
+          ]
+        ],
+        "versionCode": 55,
+        "versionName": "2.2.2"
+      }
+    ],
+    "io.github.x0b.rcx": [
+      {
+        "added": 1598381950114,
+        "apkName": "rcx-v1.11.4-universal-release_1.apk",
+        "hash": "50ce0c65c5baa80276b2a9fa9b5e7b51a8674bbf13bab0501bcd451abf05c410",
+        "hashType": "sha256",
+        "minSdkVersion": "21",
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "io.github.x0b.rcx",
+        "sig": "4dbe42e6b8704a0fb5253c3b539c7602",
+        "size": 63684991,
+        "targetSdkVersion": "29",
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 170,
+        "versionName": "1.11.4"
+      }
+    ],
+    "com.nathnetwork.iptv2k19": [
+      {
+        "added": 1598381952576,
+        "apkName": "tv2019.apk",
+        "hash": "34e8004306a9eecdf18f90e32ef4bc9010ad0ff8ad78ab58c355f6f8d2b4922a",
+        "hashType": "sha256",
+        "minSdkVersion": "21",
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.nathnetwork.iptv2k19",
+        "sig": "0c0b9b1c967ad64205e97ec2751749a2",
+        "size": 29371532,
+        "targetSdkVersion": "28",
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "com.google.android.assistant.READ_HOTWORD_STATE ",
+            null
+          ],
+          [
+            "com.google.android.assistant.WRITE_HOTWORD_STATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ]
+        ],
+        "versionCode": 322,
+        "versionName": "3.1.2"
+      }
+    ],
+    "app.xeev.xeplayer": [
+      {
+        "added": 1598381958283,
+        "apkName": "x3m.apk",
+        "hash": "461e2335eb9fecfe8ee33fbfd702ef0359ddf07d04007471fd296c33227e658a",
+        "hashType": "sha256",
+        "minSdkVersion": "22",
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "mips",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "app.xeev.xeplayer",
+        "sig": "488a816d025990f95e7268e797484bb1",
+        "size": 57137701,
+        "targetSdkVersion": "29",
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ]
+        ],
+        "versionCode": 144,
+        "versionName": "2.1.4"
+      },
+      {
+        "added": 1600016227562,
+        "apkName": "x3m_SOY43Ux.apk",
+        "hash": "af8a2e6158f34b749d62c6bffaa2b710882ab96811d9cb7e81973b8631edf676",
+        "hashType": "sha256",
+        "minSdkVersion": "22",
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "mips",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "app.xeev.xeplayer",
+        "sig": "488a816d025990f95e7268e797484bb1",
+        "size": 57137701,
+        "targetSdkVersion": "29",
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ]
+        ],
+        "versionCode": 146,
+        "versionName": "2.1.6"
+      }
+    ]
+  }
+}
